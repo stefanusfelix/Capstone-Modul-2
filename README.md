@@ -1,6 +1,8 @@
 # Capstone Modul 2: Transjakarta Analysis
 This repository contains Jupyter Notebooks (Python scripts) for analyzing data related to the Transjakarta public transportation in Jakarta.
 
+Tableau visualization: https://public.tableau.com/app/profile/stefanus.felix.wigna.sunarto/viz/TransjakartaAnalysis_17131607119800/HomeDashboard?publish=yes
+
 Contents:
 
 Business Understanding:
